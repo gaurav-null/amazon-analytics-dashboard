@@ -30,7 +30,7 @@ Nebula Analytics Dashboard is a web-based analytics platform that provides a vis
 1. Clone this repository:
    ```
    git clone https://github.com/gaurav-null/amazon-analytics-dashboard.git
-   cd nebula-analytics-dashboard
+   cd amazon-analytics-dashboard
    ```
 
 2. Create and activate a virtual environment (recommended):
@@ -54,7 +54,7 @@ Nebula Analytics Dashboard is a web-based analytics platform that provides a vis
 ## Project Structure
 
 ```
-nebula-analytics-dashboard/
+amazon-analytics-dashboard/
 ├── app.py               # Main application file
 ├── assets/              # Static assets (CSS, images)
 │   └── logo.png         # Dashboard logo
