@@ -4,7 +4,7 @@ A modern, responsive analytics dashboard built with Dash and Plotly, featuring a
 
 ## Overview
 
-Nebula Analytics Dashboard is a web-based analytics platform that provides a visually striking interface for data visualization and business intelligence. Built with Python's Dash framework, it combines powerful data processing capabilities with an intuitive user interface.
+Amazon Analytics Dashboard is a web-based analytics platform that provides a visually striking interface for data visualization and business intelligence. Built with Python's Dash framework, it combines powerful data processing capabilities with an intuitive user interface.
 
 ## Features
 
